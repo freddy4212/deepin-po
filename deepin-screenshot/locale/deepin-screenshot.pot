@@ -7,189 +7,189 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Report-Msgid-Bugs-To: freddy4212@gmail.com\n"
 "POT-Creation-Date: 2013-03-21 13:45+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2013-12-07 11:49+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../src/toolbar.py:81 ../src/widget.py:801
 msgid "draw rectangle"
-msgstr ""
+msgstr "矩形工具"
 
 #: ../src/toolbar.py:82 ../src/widget.py:805
 msgid "draw ellipse"
-msgstr ""
+msgstr "橢圓型工具"
 
 #: ../src/toolbar.py:83 ../src/widget.py:809
 msgid "draw arrow"
-msgstr ""
+msgstr "箭頭工具"
 
 #: ../src/toolbar.py:84 ../src/widget.py:813
 msgid "draw line"
-msgstr ""
+msgstr "線條工具"
 
 #: ../src/toolbar.py:85 ../src/widget.py:817
 msgid "draw Text"
-msgstr ""
+msgstr "文字工具"
 
 #: ../src/toolbar.py:87 ../src/widget.py:822
 msgid "undo"
-msgstr ""
+msgstr "復原"
 
 #: ../src/toolbar.py:90 ../src/widget.py:826
 msgid "save"
-msgstr ""
+msgstr "儲存"
 
 #: ../src/toolbar.py:110 ../src/widget.py:833
 msgid "cancel"
-msgstr ""
+msgstr "取消螢幕截圖"
 
 #: ../src/toolbar.py:113 ../src/widget.py:840
 msgid "share"
-msgstr ""
+msgstr "分享"
 
 #: ../src/toolbar.py:177 ../src/widget.py:786
 msgid "save automatically"
-msgstr ""
+msgstr "自動儲存"
 
 #: ../src/toolbar.py:178 ../src/widget.py:787
 msgid "save as"
-msgstr ""
+msgstr "儲存到指定目錄"
 
 #: ../src/toolbar.py:179 ../src/widget.py:788
 msgid "save to clipboard"
-msgstr ""
+msgstr "複製到剪貼簿"
 
 #: ../src/toolbar.py:180 ../src/widget.py:789
 msgid "save automatically to file and clipboard"
-msgstr ""
+msgstr "自動儲存並複製到剪貼簿"
 
 #: ../src/screenshot.py:77
 msgid "Take a screenshot of full screen"
-msgstr ""
+msgstr "全螢幕截圖"
 
 #: ../src/screenshot.py:78
 msgid "Take a screenshot of a window"
-msgstr ""
+msgstr "視窗截圖"
 
 #: ../src/screenshot.py:79
 msgid "Take a screenshot after NUM seconds"
-msgstr ""
+msgstr "將會在 NUM 秒後啟動截圖"
 
 #: ../src/screenshot.py:80
 msgid "save screenshot to FILE"
-msgstr ""
+msgstr "儲存截圖到檔案FILE"
 
 #: ../src/screenshot.py:81
 msgid "run as a subprocess"
-msgstr ""
+msgstr "以子進程方式執行"
 
 #: ../src/screenshot.py:82
 msgid "run a new process"
-msgstr ""
+msgstr "啟動一個新的進程"
 
 #: ../src/screenshot.py:89
 msgid "show this help message and exit"
-msgstr ""
+msgstr "顯示該求助說明訊息並退出"
 
 #: ../src/screenshot.py:90
 msgid "show program's version number and exit"
-msgstr ""
+msgstr "顯示程式的版本並退出"
 
 #: ../src/screenshot.py:100 ../src/main.py:220 ../src/share.py:555
 msgid "DeepinScreenshot"
-msgstr ""
+msgstr "深度截圖"
 
 #: ../src/screenshot.py:101
 #, python-format
 msgid "DeepinScreent will start after %d seconds"
-msgstr ""
+msgstr "深度截圖將在%d秒後啟動"
 
 #: ../src/main.py:153
 msgid "The width or height of selected area cannot be 0"
-msgstr ""
+msgstr "選取的寬或高不能為０"
 
 #: ../src/main.py:161
 msgid "Picture has been saved to file"
-msgstr ""
+msgstr "截圖已經儲存檔案"
 
 #: ../src/main.py:181
 msgid "Failed to save the picture"
-msgstr ""
+msgstr "儲存截圖失敗"
 
 #: ../src/main.py:198
 msgid "Picture has been saved to clipboard"
-msgstr ""
+msgstr "截圖已經儲存到剪貼簿"
 
 #: ../src/share.py:73
 msgid "share to web"
-msgstr ""
+msgstr "分享到網路"
 
 #: ../src/share.py:304
 msgid "click to switch user"
-msgstr ""
+msgstr "點擊以切換使用者"
 
 #: ../src/share.py:322
 msgid "click to login"
-msgstr ""
+msgstr "點擊以登入"
 
 #: ../src/share.py:437
 msgid "loading"
-msgstr ""
+msgstr "載入中"
 
 #: ../src/share.py:448
 msgid "Tweet"
-msgstr ""
+msgstr "發送"
 
 #: ../src/share.py:490
 msgid "Please input text here"
-msgstr ""
+msgstr "請在此處輸入文字"
 
 #: ../src/share.py:516 ../src/share.py:527
 msgid "error"
-msgstr ""
+msgstr "錯誤"
 
 #: ../src/share.py:516
 msgid "picture does not exist"
-msgstr ""
+msgstr "圖片不存在"
 
 #: ../src/share.py:527
 msgid "Please choose at least one platform to share on"
-msgstr ""
+msgstr "請選擇至少一個平臺分享"
 
 #: ../src/share.py:544
 msgid "uploading"
-msgstr ""
+msgstr "上傳中"
 
 #: ../src/share.py:555
 msgid "came from"
-msgstr ""
+msgstr "來自"
 
 #: ../src/share.py:602
 msgid "Follow"
-msgstr ""
+msgstr "關注"
 
 #: ../src/share.py:625 ../src/share.py:646
 msgid "upload to"
-msgstr ""
+msgstr "上傳至"
 
 #: ../src/share.py:628
 msgid "successful"
-msgstr ""
+msgstr "成功"
 
 #: ../src/share.py:651
 msgid "failed"
-msgstr ""
+msgstr "失敗"
 
 #: ../src/share.py:659
 msgid "Unknow reason"
-msgstr ""
+msgstr "未知原因"
 
 #: ../src/widget.py:266
 msgid "Drag to select area"
-msgstr ""
+msgstr "拖曳可自由選取"
