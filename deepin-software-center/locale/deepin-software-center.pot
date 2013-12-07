@@ -158,11 +158,11 @@ msgstr ""
 
 #: ../ui/software_center.py:822
 msgid "Clear up cached packages"
-msgstr ""
+msgstr "智慧清理套件快取"
 
 #: ../ui/software_center.py:823
 msgid "View new features"
-msgstr ""
+msgstr "檢視新特點"
 
 #: ../ui/software_center.py:824
 msgid "Preferences"
@@ -170,16 +170,16 @@ msgstr ""
 
 #: ../ui/software_center.py:825
 msgid "Quit"
-msgstr ""
+msgstr "結束"
 
 #: ../ui/software_center.py:1132
 #, python-format
 msgid "You have cleared up %s pakcages and saved %s of space"
-msgstr ""
+msgstr "恭喜您清理了%s個套件快取，為您節省了%s的硬碟空間。"
 
 #: ../ui/software_center.py:1134
 msgid "Your system is clean."
-msgstr ""
+msgstr "您的系統已經清理乾淨啦﹗毋需要再次清理。"
 
 #: ../ui/search_page.py:109
 #, python-format
