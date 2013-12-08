@@ -43,51 +43,51 @@ msgstr ""
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Jan"
-msgstr ""
+msgstr "1月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Feb"
-msgstr ""
+msgstr "2月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Mar"
-msgstr ""
+msgstr "3月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Apr"
-msgstr ""
+msgstr "4月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "May"
-msgstr ""
+msgstr "5月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Jun"
-msgstr ""
+msgstr "6月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Jul"
-msgstr ""
+msgstr "7月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Aug"
-msgstr ""
+msgstr "8月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Sep"
-msgstr ""
+msgstr "9月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Oct"
-msgstr ""
+msgstr "10月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Nov"
-msgstr ""
+msgstr "11月"
 
 #: ../resources/greeter/js/time.coffee:38
 msgid "Dec"
-msgstr ""
+msgstr "12月"
 
 #: ../resources/greeter/js/time.coffee:39
 msgid "Sun"
